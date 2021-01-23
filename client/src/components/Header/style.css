@@ -1,0 +1,16 @@
+.margin-right {
+    margin-right: 40%;
+}
+
+.navbar { 
+    background-color: #79b39f;
+    height: 100px;
+} 
+
+.navbar-brand {
+    margin-left: 5%;
+}
+
+.nav-item {
+    margin-left: 10%;
+}
