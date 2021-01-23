@@ -13,11 +13,6 @@ GoogleBookSearchApp is a React-based Google Books Search app that allows users t
 * run npm install in your terminal
 * run npm start and the app will run locally 
 
-## Application
-
-* Search for employees based on the list
-* Ability to sort employee list by name
-
  ## Technologies Used
 
     * React
