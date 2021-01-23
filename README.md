@@ -11,17 +11,7 @@ GoogleBookSearchApp is a React-based Google Books Search app that allows users t
 * Clone this repo in your terminal with the command git clone or just download it to your computer
 * change directory into cd React-employee-directory
 * run npm install in your terminal
-* run npm start and the app will run locally on port: 8080
-
-## Requirements
-
-I completed this assignment given the acceptance criteria:
-
-    GIVEN a table of random users
-
-    WHEN the user loads the page
-
-    THEN a table of employees should render
+* run npm start and the app will run locally 
 
 ## Application
 
